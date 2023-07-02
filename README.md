@@ -114,7 +114,7 @@
  - проанализированны данные полученные по результатам тестирвоания, даны рекомендации по дальнейшей работе над проектом.
 
 #### **Ссылки на проект**:
-[Документация на проект 2] (https://github.com/MariaTarasovaQA/MariaTarasovaQa/blob/5649bd0521cfde74a742b99f1687c23540b22316/project2%20(1).pdf)
+[Документация на проект 2](https://github.com/MariaTarasovaQA/MariaTarasovaQa/blob/5649bd0521cfde74a742b99f1687c23540b22316/project2%20(1).pdf)
 
 ---
 
